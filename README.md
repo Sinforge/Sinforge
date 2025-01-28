@@ -44,6 +44,17 @@
 
 ---
 
+### My Leetcode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sinforge?theme=dark&font=Roboto%20Mono&ext=activity" style="width: 600px; height: auto;">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=awesomexjs&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" style="width: 600px; height: auto;">
+</p>
+
+---
+
 ### 📫 How to Reach Me
 
 - Email: vlad.vlasov77@mail.ru
